@@ -12,9 +12,8 @@
 ---
 
 ### Currently I'm into this song 🎧
-<video controls loop width=280px height=160px>
-    <source src="https://youtu.be/Gbz2C2gQREI">
-</video>
+
+<iframe width="280" height="160" src="https://youtu.be/Gbz2C2gQREI" frameborder="0" gesture="media" allowfullscreen=""></iframe>
 
 <br />
 
