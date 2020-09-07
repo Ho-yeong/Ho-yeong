@@ -9,7 +9,6 @@
 - 🥅 2020 Goals: Get more knowledge about Node.js and GraphQL
 - ⚡ Fun fact: I love to draw and play guitar / and I am a gym freak [1000 pounds club!]
 
----
 
 ### Currently I'm into this song 🎧
 
@@ -30,7 +29,6 @@
 <br />
 <br />
 
----
 
 ### Languages and Tools:
 
