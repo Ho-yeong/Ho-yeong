@@ -13,8 +13,7 @@
 
 ### Currently I'm into this song 🎧
 
-<iframe width="280" height="160" src="https://youtu.be/Gbz2C2gQREI" frameborder="0" gesture="media" allowfullscreen=""></iframe>
-[![Favorite](http://img.youtu.be/Gbz2C2gQREI/0.jpg)](https://youtu.be/Gbz2C2gQREI?t=0s)
+[![Favorite](https://pbs.twimg.com/media/ERZXIU5UUAAz57z?format=jpg&name=small)](https://youtu.be/Gbz2C2gQREI?t=0s)
 
 <br />
 
