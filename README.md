@@ -12,7 +12,7 @@
 ---
 
 ### Currently I'm into this song 🎧
-<video controls loop autoplay width=280px height=160px>
+<video controls loop width=280px height=160px>
     <source src="https://youtu.be/Gbz2C2gQREI">
 </video>
 
