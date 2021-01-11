@@ -12,7 +12,7 @@
 
 ### Currently I'm into this song 🎧
 
-[![Favorite](http://i.ytimg.com/vi/Gbz2C2gQREI/mqdefault.jpg)](https://youtu.be/Gbz2C2gQREI?t=0s)
+[![Favorite](http://i.ytimg.com/vi/j4piG-zqVII/mqdefault.jpg)](https://www.youtube.com/watch?v=j4piG-zqVII)
  - plz click this img and check this song
 
 
