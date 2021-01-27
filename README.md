@@ -6,8 +6,8 @@
 - 🌱 I’m currently learning everything [especially GraphQL] 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 📕 I am a native Korean speaker and can speak English and Japanese.
-- 🥅 2020 Goals: Get more knowledge about Node.js and GraphQL
-- ⚡ Fun fact: I love to draw and play guitar / and I am a gym freak [1000 pounds club!]
+- 🥅 2021 Goals: Get more knowledge about Nest.js and GraphQL, Pure JavaScript, TypeScript
+- ⚡ Fun fact: I'm making a beat / and I am a gym freak [1000 pounds club!]
 
 
 ### Currently I'm into this song 🎧
