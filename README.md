@@ -14,7 +14,6 @@
 
 [![Favorite](http://i.ytimg.com/vi/j4piG-zqVII/mqdefault.jpg)](https://www.youtube.com/watch?v=j4piG-zqVII)
  - plz click this img and check this song
- - Fun fact: I made this
 
 <br />
 
