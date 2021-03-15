@@ -44,6 +44,7 @@
 <img align="left" alt="Java" width="30px" src="https://img.stackshare.io/service/4702/java-8-logo.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
+<img align="left" alt="Go" width="30px" src="https://img.stackshare.io/service/1005/O6AczwfV_400x400.png" />
 
 <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
