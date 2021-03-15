@@ -3,10 +3,10 @@
 ## I always try to be a student, and Teacher!
 
 - 🔭 I’m currently working at Treenod in Hae-Un-Dae, Busan, South Korea !
-- 🌱 I’m currently learning everything [especially GraphQL] 🤣
+- 🌱 I’m currently learning everything [especially GraphQL, network] 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 📕 I am a native Korean speaker and can speak English and Japanese.
-- 🥅 2021 Goals: Get more knowledge about Nest.js and GraphQL, Pure JavaScript, TypeScript
+- 🥅 2021 Goals: Get more knowledge about Nest.js and GraphQL, Pure JavaScript, TypeScript, Network env
 - ⚡ Fun fact: I'm making a beat / and I am a gym freak [1000 pounds club!]
 
 
@@ -14,7 +14,7 @@
 
 [![Favorite](http://i.ytimg.com/vi/j4piG-zqVII/mqdefault.jpg)](https://www.youtube.com/watch?v=j4piG-zqVII)
  - plz click this img and check this song
-
+ - Fun fact: I made this
 
 <br />
 
@@ -60,7 +60,11 @@
 
 <img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
+<img align="left" alt="MySql" width="30px" src="https://img.stackshare.io/service/1025/logo-mysql-170x170.png" />
+
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+
+<img align="left" alt="Jenkins" width="30px" src="https://img.stackshare.io/service/670/jenkins.png" />
 
 <img align="left" alt="Amazon" width="30px" src="https://img.stackshare.io/service/3300/16ffae8c667bdbc6a4969f6f02090652.png" />
 
