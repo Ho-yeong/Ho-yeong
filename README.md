@@ -79,7 +79,7 @@
 
   [![Simon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ho-yeong&theme=dark)](https://github.com/Ho-yeong)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ho-yeong)](https://github.com/Ho-yeong)
-  [![Simon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hoyeong)](https://github.com/Ho-yeong)
+  [![Simon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SimonJo)](https://github.com/Ho-yeong)
 
 
 [instagram]: https://www.instagram.com/_sim_mon/
