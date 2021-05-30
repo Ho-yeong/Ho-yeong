@@ -77,7 +77,8 @@
 
 ### 📺 Simon's Github Stats
 
-  <img align="left" alt="Simon's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ho-yeong&show_icons=true&hide_border=true" />
+  [![Simon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ho-yeong)](https://github.com/Ho-yeong)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ho-yeong)](https://github.com/Ho-yeong)
 
 [instagram]: https://www.instagram.com/_sim_mon/
 [linkedin]: https://www.linkedin.com/in/hoyeong-jo-7547351a7/
