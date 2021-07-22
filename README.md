@@ -4,7 +4,7 @@
 
 ## I always try to be a student, and Teacher!
 
-- 🔭 I’m currently working at Treenod in Hae-Un-Dae, Busan, South Korea !
+- 🔭 I’m currently in Hae-Un-Dae, Busan, South Korea !
 - 🌱 I’m currently learning everything [especially GraphQL, network] 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 📕 I am a native Korean speaker and can speak English and Japanese.
