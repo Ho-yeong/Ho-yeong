@@ -4,12 +4,12 @@
 
 ## I always try to be a student, and Teacher!
 
-- 🔭 I’m currently in Hae-Un-Dae, Busan, South Korea !
-- 🌱 I’m currently learning everything [especially GraphQL, network] 🤣
+- 🔭 I’m currently in Gang-nam, Seoul, South Korea !
+- 🌱 I’m currently learning everything [especially Golang, network] 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 📕 I am a native Korean speaker and can speak English and Japanese.
-- 🥅 2021 Goals: Get more knowledge about Nest.js and GraphQL, Pure JavaScript, TypeScript, Network env
-- ⚡ Fun fact: I'm making a beat / and I am a gym freak [1000 pounds club!]
+- 🥅 2021 Goals: Get more knowledge about Golang, Pure JavaScript, TypeScript, Network env
+- ⚡ Fun fact: I am a gym freak [1000 pounds club!]
 
 
 ### Currently I'm into this song 🎧
