@@ -1,6 +1,6 @@
 ### Hi there, I'm Hoyeong Jo - aka Simon 👋
 
-### [Portfiolio Page](https://ho-yeong.github.io/Portfolio/)
+### [Portfiolio Page](https://ho-yeong.github.io/portfolio_2/)
 
 ## I always try to be a student, and Teacher!
 
@@ -12,17 +12,9 @@
 - ⚡ Fun fact: I am a gym freak [1000 pounds club!]
 
 
-### Currently I'm into this song 🎧
-
-[![Favorite](http://i.ytimg.com/vi/j4piG-zqVII/mqdefault.jpg)](https://www.youtube.com/watch?v=j4piG-zqVII)
- - plz click this img and check this song
-
-<br />
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://static.rocketpunch.com/images/rocketpunch_logo.svg" />][rocketPunch]
 
@@ -81,7 +73,6 @@
   ---
 
 
-[instagram]: https://www.instagram.com/_sim_mon/
 [linkedin]: https://www.linkedin.com/in/hoyeong-jo-7547351a7/
 [rocketPunch]: https://www.rocketpunch.com/@ghdud0503
 [facebook]: https://www.facebook.com/simon7663
