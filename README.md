@@ -1,14 +1,10 @@
 ### Hi there, I'm Hoyeong Jo - aka Simon 👋
 
-### [Portfiolio Page](https://ho-yeong.github.io/portfolio_2/)
-
 ## I always try to be a student, and Teacher!
 
 - 🔭 I’m currently in Gang-nam, Seoul, South Korea !
-- 🌱 I’m currently learning everything [especially k8s] 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 🌱 I’m currently learning everything [especially k8s]
 - 📕 I am a native Korean speaker and can speak English and Japanese and bahasa Indonesia
-- 🥅 2021 Goals: Get more knowledge about Golang, Pure JavaScript, TypeScript, Network env
 - ⚡ Fun fact: I am a gym freak [1000 pounds club!]
 
 
