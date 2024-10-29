@@ -28,7 +28,7 @@ My passion is creating new possibilities through technology. I'm constantly push
 ---
 
 ### 📫 Connect with Me
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/hoyeong-jo-7547351a7/)
+- [**LinkedIn**](https://www.linkedin.com/in/hoyeong-jo-7547351a7/)
 
 
 Thanks for visiting my profile! Feel free to explore my repositories and projects. I’m always open to collaboration and learning together. 😊
