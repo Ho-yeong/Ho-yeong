@@ -1,11 +1,9 @@
 ### 👋 Hello, I'm Hoyeong Jo - aka Simon
 
-## 🌱 Personal Motto
-**"I aim for 100% second place, rather than 1% first place."**
-
-
 ## 🛠 Developer | 💼 Solopreneur | 📚 Educator
 
+## 🌱 Personal Motto
+**"I aim for 100% second place, rather than 1% first place."**
 
 ## 🚀 My Passion
 My passion is creating new possibilities through technology. I'm constantly pushing the limits of knowledge and never stop learning.
