@@ -1,29 +1,53 @@
-### Hi there, I'm Hoyeong Jo - aka Simon 👋
+# 👋 Hello, I'm Hoyeong Jo - aka Simon
+---
 
-## I always try to be a student, and Teacher!
+### 🌱 Personal Motto
+> "I aim for 100% second place, rather than 1% first place."
 
-- 🔭 I’m currently in Gang-nam, Seoul, South Korea !
-- 🌱 I’m currently learning everything [especially k8s]
-- 📕 I am a native Korean speaker and can speak English and Japanese and bahasa Indonesia
-- ⚡ Fun fact: I am a gym freak [1000 pounds club!]
+---
 
+### 🛠 Developer | 💼 Solopreneur | 📚 Educator
 
-<br />
-<br />
+---
 
+### 🚀 My Passion
+My passion is creating new possibilities through technology. I'm constantly pushing the limits of knowledge and never stop learning.
 
-### Languages and Tools:
+---
 
-<img align="left" alt="Go" width="30px" src="https://img.stackshare.io/service/1005/O6AczwfV_400x400.png" />
+### 🧑‍💻 Skills & Technologies
+- **Languages**: JavaScript, TypeScript, C++, C#, Go
+- **Frameworks & Libraries**: Node.js, Express, React
+- **Databases**: MongoDB, MySQL, PostgreSQL
+- **Tools & Platforms**: Git, GitHub, GitHub Actions, Docker, AWS, Redis
 
-<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+---
 
-<img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+### 💼 Professional Experience
+- **Node.js Tutor | TeamSparta Inc.** (Jul 2023 - Present)
+  - Mentored aspiring developers in Node.js and project management.
+  - Focused on guiding students through hands-on projects and real-world applications.
 
-<img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+- **Instructor | Seoul Metropolitan Government** (Jul 2023 - Present)
+  - Delivered Node.js training as a seasonal instructor.
+  - Provided project mentoring and guidance for prospective developers.
 
-<br />
-<br />
+- **Full-stack Developer | VIC GAME STUDIOS** (Aug 2021 - Jul 2023)
+  - Served as WebPart Tech Lead, developing various web services for games.
+  - Key technologies used: Node.js, C++.
+
+- **Game Developer | Treenod Inc.** (Oct 2020 - Jul 2021)
+  - Member of the Server Team, focusing on web services for games.
+  - Key technologies used: Go, Node.js.
+
+---
+
+### 📫 Connect with Me
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/hoyeong-jo-7547351a7/)
+
+---
+
+Thanks for visiting my profile! Feel free to explore my repositories and projects. I’m always open to collaboration and learning together. 😊
 
 ---
 
