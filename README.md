@@ -5,7 +5,7 @@
 
 # 안녕하세요, 조호영(Hoyeong Jo)입니다!
 **Developer | Solopreneur | Educator**  
-**무료 비디오 협업 플랫폼 ‘Kloom’ CEO & 개발자**  *(2025 하반기 런칭 예정)*
+**비디오 협업 플랫폼 ‘Kloom’ CEO & 개발자**  *(2025 하반기 런칭 예정)*
 
 
 ## 🌱 모토 (Motto)
