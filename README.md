@@ -5,7 +5,7 @@
 
 # 안녕하세요, 조호영(Hoyeong Jo)입니다!
 **Developer | Solopreneur | Educator**  
-**비디오 협업 플랫폼 ‘Kloom’ CEO & Founder & Developer**  *(2025 하반기 런칭 예정)*
+**비디오 협업 플랫폼 ‘Founder & Developer'**  *(2025 하반기 런칭 예정)*
 
 
 ## 🌱 모토 (Motto)
@@ -40,7 +40,7 @@
 
 
 ## 🚀 현재 진행 중인 프로젝트 (Current Projects)
-- **비디오 공유 플랫폼 ‘Kloom’**  
+- **비디오 공유 플랫폼**  
   - 2025년 하반기 정식 런칭을 목표로, 기획부터 개발 전반을 주도  
 - **[Tech.Kloom.io](https://tech.kloom.io)** 블로그 운영  
   - 개발 및 기술 관련 지식 공유
