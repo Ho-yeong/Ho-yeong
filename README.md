@@ -28,7 +28,4 @@
   - 게임 로직부터 서버 구축까지 다양한 기술 스택 경험  
 
 
-### 📫 Contact
-- **LinkedIn**: [Hoyeong Jo](https://www.linkedin.com/in/hoyeongjo/)
-
 프로젝트나 아이디어가 있다면 언제든지 편하게 연락 주세요. 함께 배우고, 함께 만들어가길 바랍니다.
