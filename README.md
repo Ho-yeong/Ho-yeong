@@ -6,14 +6,9 @@
 # 안녕하세요, 조호영(Simon)입니다!
 **Developer | Solopreneur | Educator | Unreal Authorized Instructor**
 
-<iframe
-  src="https://credential.unrealengine.com/embed/25185ae8-b336-4035-be46-3933585c8b04"
-  width="800"
-  height="600"
-  frameborder="0"
-  allowfullscreen>
-</iframe>
-
+<p align="center">
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/163907488" alt="Main Banner" />
+</p>
 
 ## 🌱 모토 (Motto)
 > **“1%의 1등보다, 100%의 2등을 목표로 합니다.”**
