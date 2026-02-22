@@ -7,7 +7,7 @@
 **Developer | Solopreneur | Educator | Unreal Authorized Instructor**
 
 <p align="center">
-  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/163907488" alt="Main Banner" />
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/173486293" alt="Main Banner" />
 </p>
 
 ## 🌱 모토 (Motto)
